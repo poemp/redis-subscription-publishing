@@ -1,0 +1,6 @@
+spring:
+  redis:
+    host: 192.168.51.152
+    port: 36379
+    database: 8
+    password: ZGPHdata2019--
